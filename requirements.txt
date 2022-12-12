@@ -2,3 +2,5 @@ pandas
 matplotlib
 numpy
 scipy
+ipympl
+ipywidgets
